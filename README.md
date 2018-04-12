@@ -11,7 +11,7 @@ The processor core includes:
 
  ## Processor: 
 
-![Processor](https://raw.githubusercontent.com/belaltaher8/Processor/master/ProcessorCorePicture.PNG)
+![Processor](https://raw.githubusercontent.com/belaltaher8/Non-Pipelined-Processor/master/ProcessorCorePicture.PNG)
 
 ## Instruction Set Architecture:
-![ISA](https://raw.githubusercontent.com/belaltaher8/Processor/master/Instruction%20set.JPG)
+![ISA](https://raw.githubusercontent.com/belaltaher8/Non-Pipelined-Processor/master/Instruction%20set.JPG)
